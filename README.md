@@ -18,7 +18,7 @@ To get started with this project, check out the following:
 Installation: Follow the installation instructions to set up the required dependencies.
 
 Configuration: Customize the configuration settings to suit your specific use case, such as adjusting detection thresholds or video input sources.
-
+-You should download the yolov3 weights file from https://pjreddie.com/yolo/
 Run the Code: Execute the provided scripts to start processing video streams and witness the vehicle counting magic!
 
 

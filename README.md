@@ -1,4 +1,6 @@
 Vehicle Counting Using CV2 and YOLO
+
+
 Welcome to the Vehicle Counting Using CV2 and YOLO repository! 🚗🔍
 
 This project combines the power of computer vision and state-of-the-art object detection through YOLO to accurately count vehicles in a given video feed. Whether you're interested in traffic analysis, parking management, or simply exploring the capabilities of computer vision, this repository provides a robust foundation.
@@ -19,12 +21,6 @@ Configuration: Customize the configuration settings to suit your specific use ca
 
 Run the Code: Execute the provided scripts to start processing video streams and witness the vehicle counting magic!
 
-📂 Repository Structure:
-/src: Contains the source code for the vehicle counting application.
-
-/data: Sample data and pre-trained models for quick experimentation.
-
-/docs: Additional documentation and resources.
 
 🤝 Contributing:
 Contributions are welcome! Whether you're fixing bugs, improving functionality, or adding new features, your input is valuable. Please refer to the Contribution Guidelines for more information.
